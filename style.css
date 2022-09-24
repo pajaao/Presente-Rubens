@@ -1,3 +1,18 @@
 body{
    background-image: url("img/Gradiente.jpg");
 }
+
+h1{
+    color: white;
+    font-family: Nunito, sans-serif;
+    size: 28px;
+    font-weight: 700;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-family: Nunito, sans-serif;
+    size: 20px;
+}
